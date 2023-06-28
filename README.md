@@ -11,4 +11,4 @@
 
 #### <br />Executives at this company have hired you as a data science consultant to identify the factors that lead to customers fully paying the loan. In essence, this exercise aims to predict/classify NotFullyPaid, using all of the other variables as independent variables.
 
-#### • What factors contribute to loans not being fully paid based on exploratory analysis?
+## Objective • What factors contribute to loans not being fully paid based on exploratory analysis?
