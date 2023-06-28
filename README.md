@@ -2,7 +2,7 @@
 
 ## Project Introduction: Loan Repayment
 <p align="center">
-  <img src=![Lending](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/d541d9fc-95b2-4a28-a7cf-14eb8f7fc778)
+  <img src=[Lending](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/d541d9fc-95b2-4a28-a7cf-14eb8f7fc778)">
 </p>
 
 #### In the lending industry, investors provide loans to borrowers in exchange for the promise of
