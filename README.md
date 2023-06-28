@@ -10,3 +10,5 @@
 #### <br />In this exercise, we will use publicly available data from Lending Club, a platform that connects borrowers and investors online. The dataset is available in the loans.csv file. There are 9,578 observations, each representing a 3-year loan that was funded through the Lendingclub.com platform from past data. There are 14 variables in the dataset, described in the Table below.
 
 #### <br />Executives at this company have hired you as a data science consultant to identify the factors that lead to customers fully paying the loan. In essence, this exercise aims to predict/classify NotFullyPaid, using all of the other variables as independent variables.
+
+#### • What factors contribute to loans not being fully paid based on exploratory analysis?
