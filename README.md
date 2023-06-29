@@ -24,7 +24,7 @@ There are 9,578 observations, each representing a 3-year loan that was funded th
   <img src="https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/28cd6fb3-2c87-44cd-a377-936b9ab192d2" alt="Lending-DatasetAttributes">
 </p>
 
-## 1. Exploratory Data Analysis (6 relevant questions)
+## Exploratory Data Analysis (6 relevant questions)
 
 ### Question 1 Is there a relationship between the customer’s repay record and the public record? Do people with more public record tend to unable pay full installment?
 
@@ -106,3 +106,14 @@ The bar chart visualization (figure ) shows a clear negative relationship betwee
 
 
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/1b03d3ad-0745-4c1a-9540-adfd2311e8f5)
+
+## Recommendations
+
+Through analysis and report sections, the Loans Credit dataset provides the company 6 insights into identifying characteristics of “Not fully repay” and “fully repay” customer.These insights will enable them to determine the best solution to avoid or resolve in risk leasing. Specifically, all variables have been used to identify repayment including puclic record, debt-to-income, interest rate, fico score, amount of montly installment, and purpose of loans
+In order to identify a “fully repayment” customer and avoid risks associated with “Not fully repay” customer, the following factors must be considered as the company’s strategy.
+•	To limit transactions involving “Not Fully Repayment”, the company must target customers with Fewer Public Record . People without public record in financial such as bankruptcy, filings, tax liens, or judgments will be much higher chance to pay the loan back in full.
+•	The Debt-To-Income is another factor to consider. Customers with fully repayment often have the debt to income ratio (DTI) below 15% which means that the monthly installment less than 15% of their salary.
+•	The fully repayment rating is strongly impacted by The purpose of the loans. To avoid “Not fully payment” customer, the company must engage to the leasing with consumers who borrows for credit card purposes. In contrast, the company also want to limit engaging leasing with purpose of opening or maintaining small business.
+•	A lower monthly installment is another factor that determines “fully repayment” customer. The company should target customers with an monthly installment below $400.
+•	Higher-interest rate have a higher chance of accumulating “Not Fully Repayment”. the company should be careful to engage in all leasing with interest rate above 15%.
+•	Moreover, the Fico scores of “fully repayment” customer starts from 685 to 740. As the result, People with high Fico scores will be safer when providing the loan. Additionally, the company need to avoid people who have Fico score less than 650.
