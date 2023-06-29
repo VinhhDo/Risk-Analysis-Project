@@ -53,6 +53,9 @@ In the graph, the range of the “fully repay” outliner is lean to the left si
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/73d05b41-7593-4c3f-af9d-eb4cfe133107)
 
 
+
+
+
 ### Question 5 Is there a relationship between Fico rating (credit rating scores) and the repayment outcome?
 
 #### Methods
