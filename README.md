@@ -6,8 +6,10 @@
 </p>
 
 In the lending industry, investors provide loans to borrowers in exchange for the promise of repayment with interest. If the borrower repays the loan, the lender profits from the interest. However, if the borrower is unable to repay the loan, then the lender loses money. Therefore, lenders would like to minimize the risk of a borrower being unable to repay a loan.
+ 
+ <br /> This analysis aims to analyze, predict, and present the characteristics posed by borrowers who are more likely to be unable to repay the loan, thereby enabling the company to avoid engaging in high-risk leasing and financial contract with these customers. In addition, this report provides machine learning models assisting the company in classifying the factors more likely to contribute to the repaid loan. 
 
- <br />In this exercise, we will use publicly available data from Lending Club, a platform that connects borrowers and investors online. The dataset is available in the loans.csv file. There are 9,578 observations, each representing a 3-year loan that was funded through the Lendingclub.com platform from past data. There are 14 variables in the dataset, described in the Table below.
+ <br /> Six different factors will be applied in the analysis, including credit score (fico), purpose of the loan (Purpose), interest rate(IntRate), montly installments(Installment), the debt-to-income ratio of the borrower(Dti), Public record(PubRec). And three other ML classification models also will be used, including Logistic model, LDA and Tree decision. 
 
 ## Objective 
 #### • What factors contribute to loans not being fully paid based on exploratory analysis? 
@@ -16,11 +18,14 @@ In the lending industry, investors provide loans to borrowers in exchange for th
 
 
 ## Data
+There are 9,578 observations, each representing a 3-year loan that was funded through the Lendingclub.com platform from past data. There are 14 variables in the dataset, described in the Table below.
+
 <p align="center">
   <img src="https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/28cd6fb3-2c87-44cd-a377-936b9ab192d2" alt="Lending-DatasetAttributes">
 </p>
 
 ## Exploratory Data Analysis
+
 #### Table 1:
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/4a568412-6ab1-4c7e-a49d-c68bb165edad)
 #### Table 2:
