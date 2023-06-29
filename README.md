@@ -27,10 +27,13 @@ There are 9,578 observations, each representing a 3-year loan that was funded th
 ## 1. Exploratory Data Analysis (6 relevant questions)
 
 ### Question 1 Is there a relationship between the customer’s repay record and the public record? Do people with more public record tend to unable pay full installment?
-In the summary, the borrower who did not pay fully instalment and interest are more likely to have public record compared to borrower who have paid fully. The table show the different between of them is closed to 5%. For the ’fully payment” borrower, the rate to have public record is only 4%. In the other hand, the chance of having public record for “No fully paid” borrower is 9%.
-#### Table 1:
+In the summary, the borrower who did not pay fully instalment and interest are more likely to have public record compared to borrower who have paid fully. The table show the different between of them is closed to 5%. For the ’fully payment” borrower, the rate to have public record is only 4%. In the other hand, the chance of having public record for “No fully paid” borrower is 9%. In consequence, the public record have an negative impact on the installment paying of borrower. People with no public record will more likely to pay the installment fully.
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/4a568412-6ab1-4c7e-a49d-c68bb165edad)
-#### Table 2:
+
+### Question 2 Is there a relationship between The debt-to-income rate of borrower and the chance of fully repay?
+Table shows that people who did not pay the loan in full have higher Deb-to-Income rating. 85% of “Not fully repayment” consumer have the Deb-to-Income above 10%. In contrast, people who have paid the loans in full have 5% higher chance in having Deb-to-ratio below 5.
+
+
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/f7c98dea-5ee0-4e1d-a7d1-9c4359ea4605)
 #### Table 3:
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/dff20c71-619a-4974-93da-e22f3f1f8b62)
