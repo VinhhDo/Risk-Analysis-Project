@@ -32,13 +32,16 @@ In the summary, the borrower who did not pay fully instalment and interest are m
 
 ### Question 2 Is there a relationship between The debt-to-income rate of borrower and the chance of fully repay?
 Table shows that people who did not pay the loan in full have higher Deb-to-Income rating. 85% of “Not fully repayment” consumer have the Deb-to-Income above 10%. In contrast, people who have paid the loans in full have 5% higher chance in having Deb-to-ratio below 5.
-
-
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/f7c98dea-5ee0-4e1d-a7d1-9c4359ea4605)
-#### Table 3:
+
+
+### Question 3 Does the purpose of loans affect the full repayment?
+There are seven variables from “Purpose” variables across fully repayment and not fully repayment factors. Based on the figure , the two column represent the difference between two factors in “small business” and “credit card” purposes. The “small business” purpose have a higher chance to unable to pay the loan in full. According to summary table , the borrower who have apply the loans for small business purpose will have about 12% to unable to pay the loans. In contrast, only 5% of people who usually pay the loan in full will borrow money for business purpose. In addition, customer who pay the loan in full usually apply the loan for credit card compared to the “not fully paid” customer. The different percentage is approxiamte 5%. Based on the analysis, there is a relationship between purpose of loans and the fully repayment. The purpose can be used by company to consider as a factor to decide to lend a loan to customer.
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/dff20c71-619a-4974-93da-e22f3f1f8b62)
-#### Figure 1:
+
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/1a1f354b-848d-4304-8b1c-013a52a3e613)
+### Question 4
+
 #### Figure 2:
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/73d05b41-7593-4c3f-af9d-eb4cfe133107)
 #### Figure 3:
