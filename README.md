@@ -111,13 +111,9 @@ The bar chart visualization (figure ) shows a clear negative relationship betwee
 
 ### In order to identify a “fully repayment” customer and avoid risks associated with “Not fully repay” customer, the following factors must be considered as the company’s strategy.
 
-#### <br /> •	To limit transactions involving “Not Fully Repayment”, the company must target customers with Fewer Public Record . People without public record in financial such as bankruptcy, filings, tax liens, or judgments will be much higher chance to pay the loan back in full.
+ <br /> •	To limit transactions involving “Not Fully Repayment”, the company must target customers with Fewer Public Record . People without public record in financial such as bankruptcy, filings, tax liens, or judgments will be much higher chance to pay the loan back in full.
  
  <br /> •	The Debt-To-Income is another factor to consider. Customers with fully repayment often have the debt to income ratio (DTI) below 15% which means that the monthly installment less than 15% of their salary.
- 
- <br /> •	The fully repayment rating is strongly impacted by The purpose of the loans. To avoid “Not fully payment” customer, the company must engage to the leasing with consumers who borrows for credit card purposes. In contrast, the company also want to limit engaging leasing with purpose of opening or maintaining small business.
- 
- <br /> •	A lower monthly installment is another factor that determines “fully repayment” customer. The company should target customers with an monthly installment below $400.
  
  <br /> •	Higher-interest rate have a higher chance of accumulating “Not Fully Repayment”. the company should be careful to engage in all leasing with interest rate above 15%.
  
