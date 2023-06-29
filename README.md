@@ -64,11 +64,23 @@ The method used Is a box plot visualization representing the spread of data, the
 
 #### Analysis
 
-Figure 3 illustrates different contributions with Fully paid and Not Fully paid status based on Fico credit ratings. The interquartile range is higher for fully paid observations that start at 685 and end around 740. Compared to not fully repayment observations, it begins at about 670 and ends at 710. Moreover, the average fully paid observations is 705 scores which is higher than not fully paid observation 15-20. Based on the analysis, repayment status is significantly impacted by Fico rating score. Higher fico rating can tell that a person pay all their loan timely and fully. Thus, the plot represent the better fico rating is as the better chance of customer pay the loan fully.
+Figure illustrates different contributions with Fully paid and Not Fully paid status based on Fico credit ratings. The interquartile range is higher for fully paid observations that start at 685 and end around 740. Compared to not fully repayment observations, it begins at about 670 and ends at 710. Moreover, the average fully paid observations is 705 scores which is higher than not fully paid observation 15-20. Based on the analysis, repayment status is significantly impacted by Fico rating score. Higher fico rating can tell that a person pay all their loan timely and fully. Thus, the plot represent the better fico rating is as the better chance of customer pay the loan fully.
 
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/71ef4229-bc8b-416f-b0d3-e1a05b6680b9)
 
+### Question 5 Is there a relationship between Fico rating (credit rating scores) and the repayment outcome?
+
+#### Methods
+
+A bar plot with a full-fill position will be used to allow the comparison of two repayment statuses to be more efficient and the audience to see the trend more clearly.
+
+#### Analysis
+The bar chart visualization (figure ) shows a clear negative relationship between repayment and the installment rate. The entire repayment steadily decreases as the installment rises. Throughout the figure, monthly installments are below 200, and there is more likely the customer repay their loans in full. The difference between “Under 200” and “600 and above” is around 10%-20%. So, there is a 10% higher for the company to get the repayment from customers by funding the loans with monthly installments below $200. The analysis shows a strong correlation between repayment and the monthly installment. The lower the installment is, the higher the chance of a customer paying back the loans in full.
+
 #### Table 4: 
+
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/0de794b2-ca56-4012-b209-cabb03f5647d)
+
 #### Figure 4:
+
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/1b03d3ad-0745-4c1a-9540-adfd2311e8f5)
