@@ -52,7 +52,17 @@ In the graph, the range of the “fully repay” outliner is lean to the left si
 
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/73d05b41-7593-4c3f-af9d-eb4cfe133107)
 
-#### Figure 3:
+
+### Question 5 Is there a relationship between Fico rating (credit rating scores) and the repayment outcome?
+
+#### Methods
+
+The method used Is a box plot visualization representing the spread of data, the standard deviation, and the median fico. There are two boxes. The “Fully Paid” spread is shown on left side and has a green colour, and the “Not Fully payment” status spread is on the other side with red colour.
+
+#### Analysis
+
+Figure 3 illustrates different contributions with Fully paid and Not Fully paid status based on Fico credit ratings. The interquartile range is higher for fully paid observations that start at 685 and end around 740. Compared to not fully repayment observations, it begins at about 670 and ends at 710. Moreover, the average fully paid observations is 705 scores which is higher than not fully paid observation 15-20. Based on the analysis, repayment status is significantly impacted by Fico rating score. Higher fico rating can tell that a person pay all their loan timely and fully. Thus, the plot represent the better fico rating is as the better chance of customer pay the loan fully.
+
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/71ef4229-bc8b-416f-b0d3-e1a05b6680b9)
 
 #### Table 4: 
