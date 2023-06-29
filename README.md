@@ -120,4 +120,6 @@ The bar chart visualization (figure ) shows a clear negative relationship betwee
  <br /> •	Moreover, the Fico scores of “fully repayment” customer starts from 685 to 740. As the result, People with high Fico scores will be safer when providing the loan. Additionally, the company need to avoid people who have Fico score less than 650.
 
 
-— End of the Project —
+
+### Thank you to all who have taken the time to view my project. Your support and interest are truly appreciated.
+                                                                                                                  — End of the Project —
