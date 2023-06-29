@@ -20,3 +20,5 @@ In the lending industry, investors provide loans to borrowers in exchange for th
   <img src="https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/28cd6fb3-2c87-44cd-a377-936b9ab192d2" alt="Lending-DatasetAttributes">
 </p>
 
+## Exploratory Data Analysis
+![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/1a1f354b-848d-4304-8b1c-013a52a3e613)
