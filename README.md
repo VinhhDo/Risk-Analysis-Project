@@ -68,7 +68,7 @@ Figure illustrates different contributions with Fully paid and Not Fully paid st
 
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/71ef4229-bc8b-416f-b0d3-e1a05b6680b9)
 
-### Question 5 Is there a relationship between Fico rating (credit rating scores) and the repayment outcome?
+### Question 6 Do high monthly installments have a lower chance of paying loans fully?
 
 #### Methods
 
@@ -77,10 +77,10 @@ A bar plot with a full-fill position will be used to allow the comparison of two
 #### Analysis
 The bar chart visualization (figure ) shows a clear negative relationship between repayment and the installment rate. The entire repayment steadily decreases as the installment rises. Throughout the figure, monthly installments are below 200, and there is more likely the customer repay their loans in full. The difference between “Under 200” and “600 and above” is around 10%-20%. So, there is a 10% higher for the company to get the repayment from customers by funding the loans with monthly installments below $200. The analysis shows a strong correlation between repayment and the monthly installment. The lower the installment is, the higher the chance of a customer paying back the loans in full.
 
-#### Table 4: 
+
 
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/0de794b2-ca56-4012-b209-cabb03f5647d)
 
-#### Figure 4:
+
 
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/1b03d3ad-0745-4c1a-9540-adfd2311e8f5)
