@@ -24,7 +24,7 @@ There are 9,578 observations, each representing a 3-year loan that was funded th
   <img src="https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/28cd6fb3-2c87-44cd-a377-936b9ab192d2" alt="Lending-DatasetAttributes">
 </p>
 
-## Exploratory Data Analysis (6 relevant questions to find relationships bet
+## Exploratory Data Analysis (6 relevant questions)
 
 #### Table 1:
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/4a568412-6ab1-4c7e-a49d-c68bb165edad)
