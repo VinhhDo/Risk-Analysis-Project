@@ -26,6 +26,8 @@ There are 9,578 observations, each representing a 3-year loan that was funded th
 
 ## 1. Exploratory Data Analysis (6 relevant questions)
 
+### Question 1 Is there a relationship between the customer’s repay record and the public record? Do people with more public record tend to unable pay full installment?
+In the summary, the borrower who did not pay fully instalment and interest are more likely to have public record compared to borrower who have paid fully. The table show the different between of them is closed to 5%. For the ’fully payment” borrower, the rate to have public record is only 4%. In the other hand, the chance of having public record for “No fully paid” borrower is 9%.
 #### Table 1:
 ![image](https://github.com/VinhhDo/Risk-Analysis-Project/assets/98499217/4a568412-6ab1-4c7e-a49d-c68bb165edad)
 #### Table 2:
